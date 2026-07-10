@@ -82,3 +82,7 @@ This project was developed to practice:
 - Dynamic content loading
 - Search functionality
 - Backend integration
+
+## 📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more information.
